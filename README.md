@@ -15,4 +15,6 @@ Knapsack Problem is a GUI-based Java 15 software for solving the [Knapsack probl
 ## License
 [knapsack.png](https://commons.wikimedia.org/w/index.php?curid=985491)
 
+Programmed for my thesis in the upper school
+
 
